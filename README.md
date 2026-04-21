@@ -4,8 +4,11 @@
 Sobre mim 🔍
 
 Atualmente estou cursando 3 semestre na ETEC.
+
 Atualmente estou aprendendo Estruturas de Dados .
+
 Sempre explorando tendências em desenvolvimento web.
+
 Curiosidade : Adoro música, aprender novas tecnologias, formado em designer gráfico e gostode desafios.
 
 ## Ferramentas e Tecnologias:
