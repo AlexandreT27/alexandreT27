@@ -3,7 +3,8 @@
 
 ## Ferramentas e Tecnologias
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40"/> 
+<img src="icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40"/>
 </div>
 
