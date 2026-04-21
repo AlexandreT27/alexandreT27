@@ -1,7 +1,7 @@
 # Olá, me chamo Thiago !
 ## Bem vindo ao meu perfil GitHub 👋
 
-# Sobre mim 🔍
+### Sobre mim 🔍
 
 🔭Atualmente estou cursando 3 semestre na ETEC.
 
